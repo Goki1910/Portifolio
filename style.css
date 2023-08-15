@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#app{
+    background:pink;
+}
+#games{
+    background: blue;
+}
+#chatbot{
+    background: yellow;
+}
+.line{
+    background: black;
+    height: 6px;
+    margin: 8px auto;
+    width: 80px;
+}
+#myCarrousel{
+    background-color: red;
+}
